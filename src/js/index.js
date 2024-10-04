@@ -1,3 +1,6 @@
-import '../scss/style.scss'
-
-console.log('Works!')
+import '../scss/style.scss';
+import './swiper';
+import './readMore';
+import './openBurger';
+import './overlay';
+import './modal';
